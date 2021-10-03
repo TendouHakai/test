@@ -1,2 +1,3 @@
 # test
+<<<<<<< HEAD
 # đang thử
